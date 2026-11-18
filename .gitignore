@@ -1,0 +1,9 @@
+# Variáveis de ambiente e chaves
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.DS_Store
